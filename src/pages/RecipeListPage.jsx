@@ -48,7 +48,7 @@ export const RecipeListPage = ({clickFn}) => {
   return (
     <>
       <Center>
-        <Heading mb={8}>Your Recipe App</Heading>
+        <Heading mb={8}>Hello World!</Heading>
       </Center>
       <Center>
         <VStack gap={4} mb={8}>
